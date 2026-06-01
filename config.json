@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsrecrypt",
+        "uuid": 34533933,
+        "checksum": "eypwcg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
